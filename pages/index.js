@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Toronto based WordPress developer. When I am not coding, I'm riding playing music, hangin with my family or riding my bike. You can find me on <a href="https://twitter.com/VanstoneOnline"> Twitter</a>
+        <p>Toronto based WordPress developer. When I am not coding, I'm playing music, hangin with my family or riding my bike. You can find me on <a href="https://twitter.com/VanstoneOnline"> Twitter</a>
         </p>
         <p> 
           (This is a sample website - you’ll be building a site like this on{' '}
